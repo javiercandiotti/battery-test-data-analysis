@@ -1,0 +1,20 @@
+Cycle,Time_s,Voltage_V,Temperature_C,Current_A
+1,0,4.20,25.0,2.0
+1,60,4.18,25.2,2.0
+1,120,4.15,25.5,2.0
+1,180,4.12,26.0,2.0
+1,240,4.08,26.8,2.0
+1,300,4.05,27.5,2.0
+2,360,4.00,28.2,1.8
+2,420,3.95,29.0,1.8
+2,480,3.90,29.8,1.8
+2,540,3.85,30.5,1.8
+3,600,3.80,31.2,1.5
+3,660,3.75,32.0,1.5
+3,720,3.70,33.0,1.5
+,,,,
+Cycle: Test cycle number,,,,
+Time_s: Time in seconds,,,,
+"Voltage_V: Battery voltage (starts high ~4.2V, drops during discharge)",,,,
+Temperature_C: Battery temperature (rises as it discharges),,,,
+Current_A: Discharge current,,,,
